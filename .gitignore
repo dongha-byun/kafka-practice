@@ -1,6 +1,7 @@
-.log
-.tar
-.tar.gz
-.zip
-.tgz
+
+*.log
+*.tar
+*.tar.gz
+*.zip
+*.tgz
 
